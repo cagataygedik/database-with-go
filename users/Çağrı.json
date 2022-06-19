@@ -1,0 +1,12 @@
+{
+	"Name": "Çağrı",
+	"Age": 31,
+	"Contact": "23344333",
+	"Company": "Remote-Teams",
+	"Address": {
+		"City": "Burdur",
+		"State": "Merkez",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}

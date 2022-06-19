@@ -1,0 +1,12 @@
+{
+	"Name": "Çağatay",
+	"Age": 23,
+	"Contact": "23344333",
+	"Company": "Myrl Tech",
+	"Address": {
+		"City": "Istanbul",
+		"State": "Besiktas",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Ekin",
+	"Age": 29,
+	"Contact": "23344333",
+	"Company": "Facebook",
+	"Address": {
+		"City": "Burdur",
+		"State": "Merkez",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}

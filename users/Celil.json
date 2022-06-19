@@ -1,0 +1,12 @@
+{
+	"Name": "Celil",
+	"Age": 32,
+	"Contact": "23344333",
+	"Company": "Dominate",
+	"Address": {
+		"City": "İzmir",
+		"State": "Bornova",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}

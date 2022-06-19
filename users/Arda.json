@@ -1,0 +1,12 @@
+{
+	"Name": "Arda",
+	"Age": 25,
+	"Contact": "23344333",
+	"Company": "Google",
+	"Address": {
+		"City": "Istanbuk",
+		"State": "Besiktas",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Göktürk",
+	"Age": 27,
+	"Contact": "23344333",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Istanbul",
+		"State": "Besiktas",
+		"Country": "Turkey",
+		"Pincode": 410013
+	}
+}
